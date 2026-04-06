@@ -15,3 +15,17 @@ function division(a, b){
 	return a / b;
 }
 
+function operate(a, operator, b){
+	switch(operator){
+		case "+": 
+			return add(a, b);
+		case "-":
+			return subs(a, b);
+		case "x":
+			return multiply(a, b);
+		case "/":
+			return division(a, b);
+		default:
+			return null;
+	}
+}
