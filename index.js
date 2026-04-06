@@ -55,7 +55,7 @@ function getBtnValue(){
 			} else if (value === "="){
 				let result = operate(+firstNum, operator, +secondNum);
 				display.textContent = result;
-				firstNum = "";
+				firstNum = result.toString();
 				secondNum = "";
 				operator = null;
 				isOperatorClicked = false;
