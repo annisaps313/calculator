@@ -27,3 +27,9 @@ main{
 	background: white;
 	text-align: right;
 }
+
+button{
+	min-width: 50px;
+	min-height: 50px;
+	font-size: 15pt;
+}
