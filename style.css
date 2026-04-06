@@ -20,6 +20,7 @@ main{
 	height: auto;
 	width: 300px;
 	padding: 1em;
+	border-radius: 10px;
 }
 
 .display{
