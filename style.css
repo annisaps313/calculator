@@ -29,6 +29,12 @@ main{
 	text-align: right;
 }
 
+.button-container{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+}
+
 button{
 	min-width: 50px;
 	min-height: 50px;
