@@ -21,6 +21,7 @@ main{
 	width: 300px;
 	padding: 1em;
 	border-radius: 10px;
+	background: darkgrey;
 }
 
 .display{
