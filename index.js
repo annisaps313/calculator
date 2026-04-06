@@ -21,3 +21,12 @@ let showSecondNum;
 function operate(showFirstNum, showOperation, showSecondNum){
 	return add(showFirstNum, showSecondNum);
 }
+
+function getBtnValue(btnValue){
+	const btn = document.querySelectorAll('button');
+	btn.forEach((button) =>{
+		button.addEventListener("click", ()=>{
+			btnValue = button.value;
+		})
+	})
+}
