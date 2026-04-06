@@ -47,3 +47,9 @@ button{
 	font-size: 15pt;
 	flex: auto;
 }
+footer{
+	font-size: 10pt;
+	text-align: right;
+}
+
+a{font-weight: bold;}
