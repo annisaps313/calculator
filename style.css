@@ -29,6 +29,10 @@ main{
 	height: 50px;
 	background: white;
 	text-align: right;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	padding: 0.25em;
 }
 
 .button-container{
