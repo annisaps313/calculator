@@ -17,3 +17,7 @@ const divide = (a, b) => {
 let showFirstNum;
 let showOperation;
 let showSecondNum;
+
+function operate(showFirstNum, showOperation, showSecondNum){
+	return add(showFirstNum, showSecondNum);
+}
