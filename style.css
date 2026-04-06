@@ -19,3 +19,11 @@ main{
 	border: 1px solid;
 	height: 300px;
 }
+
+.display{
+	border: 1px solid;
+	font-size: 20pt;
+	height: 50px;
+	background: white;
+	text-align: right;
+}
