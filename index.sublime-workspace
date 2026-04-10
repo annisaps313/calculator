@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"darkgrey"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"blu",
+				"blueviolet"
+			],
+			[
+				"bl",
+				"darkblue"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ope",
+				"operate"
+			],
+			[
+				"get",
+				"getBtnValue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"show",
+				"showSecondNum"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"sho",
+				"showSecondNum"
+			],
+			[
+				"ne",
+				"newArr"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"a",
+				"alphabet"
+			],
+			[
+				"rever",
+				"reversedStr"
+			],
+			[
+				"cle",
+				"cleanedStr"
+			],
+			[
+				"clea",
+				"cleanedStr"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"comme",
+				"commentFindIndex"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"peop",
+				"peopleEvery"
+			],
+			[
+				"p",
+				"people"
+			],
+			[
+				"pe",
+				"peopleSome"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"inve",
+				"inventorsLivedSorted"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"full",
+				"fullname"
+			],
+			[
+				"f",
+				"first"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Advanced Disable Packages"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/annisaps313/repos/portfolio/portfolio.html",
+		"/home/annisaps313/repos/calculator/style.css",
+		"/home/annisaps313/repos/calculator/index.js",
+		"/home/annisaps313/repos/calculator/index.html",
+		"/home/annisaps313/.config/sublime-text/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/home/annisaps313/repos/javascript-exercises/foundations/16_findTheOldest/README.md",
+		"/home/annisaps313/repos/javascript-exercises/foundations/16_findTheOldest/findTheOldest.spec.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/16_findTheOldest/findTheOldest.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/16_findTheOldest/solution/findTheOldest-solution.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/15_getTheTitles/getTheTitles.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/14_fibonacci/fibonacci.spec.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/14_fibonacci/fibonacci.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/13_palindromes/palindromes.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/13_palindromes/palindromes.spec.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/12_calculator/calculator.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/12_calculator/calculator.spec.js",
+		"/home/annisaps313/repos/javascript-exercises/foundations/12_calculator/README.md",
+		"/home/annisaps313/repos/JavaScript30/07 - Array Cardio Day 2/index-START.html",
+		"/home/annisaps313/repos/JavaScript30/04 - Array Cardio Day 1/index-START.html",
+		"/home/annisaps313/coding/01_practice/index.html",
+		"/home/annisaps313/coding/01_practice/index.js"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
