@@ -27,13 +27,12 @@ main{
 .display{
 	font-size: 20pt;
 	height: 50px;
-	background: white;
 	text-align: right;
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
 	padding: 0.25em;
-	background: #d1d3ae;
+	background: whitesmoke;
 	border-radius: 5px;
 }
 
