@@ -25,7 +25,6 @@ main{
 }
 
 .display{
-	border: 1px solid;
 	font-size: 20pt;
 	height: 50px;
 	background: white;
@@ -34,6 +33,7 @@ main{
 	align-items: center;
 	justify-content: flex-end;
 	padding: 0.25em;
+	background: #d1d3ae;
 }
 
 .button-container{
