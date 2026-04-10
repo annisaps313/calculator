@@ -57,3 +57,30 @@ footer{
 }
 
 a{font-weight: bold;}
+
+.accessories{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.accessories .container {
+	display: flex;
+	gap: 1px;
+}
+
+.accessories .item{
+	background: black;
+	height: 40px;
+	width: 40px;
+}
+
+.accessories .item:first-child{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.accessories .item:last-child{
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
